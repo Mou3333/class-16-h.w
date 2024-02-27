@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+.container{
+    width:1170px;
+    margin: auto;
+    background-color: rgb(150, 150, 233);
+    color: rgb(52, 39, 172);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.container .number1,.number2,.number3,.number4,.number5{
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.btn{
+    margin-top: 10px;
+}
+button{
+    display: flex;
+    margin: auto;
+  padding: 10px;
+  background-color: rgb(69, 127, 204);
+  color: rgb(219, 218, 228);
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+table{
+  background-color: rgb(75, 73, 167);
+  padding: 20px;
+  border-radius: 5px;
+  color: rgb(213, 205, 221);
+}
